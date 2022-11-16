@@ -15,7 +15,7 @@
   "scripts": {
     "start": "nodemon index.js"
   },
-  "author": "",
+  "author": "Sayan Munshi",
   "license": "ISC",
   "description": ""
 }
